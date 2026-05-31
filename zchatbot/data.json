@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Comment puis-je créer un compte ?",
+    "answer": "Rendez-vous sur la page d'inscription, remplissez vos informations personnelles, et validez. Vous recevrez un email de confirmation."
+  },
+  {
+    "question": "L'inscription est-elle gratuite ?",
+    "answer": "Oui, la création d'un compte sur notre plateforme est totalement gratuite."
+  },
+  {
+    "question": "Quelles informations sont nécessaires pour m'inscrire ?",
+    "answer": "Il vous faut un nom, un prénom, une adresse email valide, un numéro de téléphone et un mot de passe sécurisé."
+  },
+  {
+    "question": "Je n'arrive pas à me connecter, que faire ?",
+    "answer": "Vérifiez votre adresse email et votre mot de passe. Si le problème persiste, utilisez la fonction 'Mot de passe oublié'."
+  },
+  {
+    "question": "Comment réinitialiser mon mot de passe ?",
+    "answer": "Cliquez sur 'Mot de passe oublié' sur la page de connexion. Un lien de réinitialisation vous sera envoyé par email."
+  },
+  {
+    "question": "Puis-je modifier mon adresse email ?",
+    "answer": "Oui, vous pouvez modifier votre adresse email depuis la section 'Mon Profil' de votre espace client."
+  },
+  {
+    "question": "Comment mettre à jour mon numéro de téléphone ?",
+    "answer": "Allez dans 'Mon Profil', modifiez votre numéro et enregistrez les changements."
+  },
+  {
+    "question": "Comment supprimer mon compte ?",
+    "answer": "Pour supprimer votre compte, veuillez contacter le support client ou en faire la demande via votre espace personnel."
+  },
+  {
+    "question": "Mes données personnelles sont-elles sécurisées ?",
+    "answer": "Oui, nous utilisons des protocoles de chiffrement avancés (JWT) pour garantir la sécurité de vos données."
+  },
+  {
+    "question": "Puis-je avoir plusieurs comptes ?",
+    "answer": "Non, un seul compte est autorisé par personne, lié à votre numéro de carte d'identité."
+  },
+  {
+    "question": "À quoi sert le simulateur de crédit ?",
+    "answer": "Il vous permet de calculer vos mensualités et le coût total de votre crédit avant de faire une demande officielle."
+  },
+  {
+    "question": "La simulation de crédit m'engage-t-elle ?",
+    "answer": "Non, la simulation est à titre indicatif et ne constitue pas un engagement."
+  },
+  {
+    "question": "Comment fonctionne la calculatrice de crédit ?",
+    "answer": "Vous entrez le montant souhaité, le taux d'intérêt et la durée. Le système calcule automatiquement la mensualité."
+  },
+  {
+    "question": "Puis-je sauvegarder une simulation ?",
+    "answer": "Oui, une fois connecté, vos simulations récentes sont enregistrées dans votre historique."
+  },
+  {
+    "question": "Le simulateur inclut-il les frais de dossier ?",
+    "answer": "Les frais de dossier sont généralement détaillés dans l'échéancier prévisionnel généré par le simulateur."
+  },
+  {
+    "question": "Quelle est la durée maximale d'un crédit ?",
+    "answer": "La durée maximale dépend du type de crédit choisi. Vous pouvez la vérifier lors de votre simulation."
+  },
+  {
+    "question": "Quel est le montant minimum que je peux emprunter ?",
+    "answer": "Le montant minimum varie selon nos offres actuelles. Veuillez consulter la page des produits de crédit."
+  },
+  {
+    "question": "Puis-je modifier la durée lors de la simulation ?",
+    "answer": "Absolument, vous pouvez ajuster la durée pour voir l'impact sur vos mensualités."
+  },
+  {
+    "question": "Comment générer un échéancier prévisionnel ?",
+    "answer": "Après avoir lancé la simulation, cliquez sur 'Générer l'échéancier' pour voir vos futurs paiements."
+  },
+  {
+    "question": "Puis-je télécharger la simulation au format PDF ?",
+    "answer": "Oui, un bouton de téléchargement PDF est disponible sur la page de résultat de la simulation."
+  },
+  {
+    "question": "Comment faire une demande de crédit officielle ?",
+    "answer": "Connectez-vous, allez dans 'Faire une demande', choisissez vos critères et téléchargez vos documents."
+  },
+  {
+    "question": "Puis-je annuler une demande de crédit en cours ?",
+    "answer": "Oui, tant que la demande est au statut 'En attente', vous pouvez l'annuler depuis votre espace client."
+  },
+  {
+    "question": "Est-il possible de demander plusieurs crédits en même temps ?",
+    "answer": "Généralement non. Vous devez attendre la clôture ou l'acceptation de votre première demande."
+  },
+  {
+    "question": "Quels types de crédits proposez-vous ?",
+    "answer": "Nous proposons divers types de crédits (consommation, auto, immobilier). Vous pouvez les sélectionner lors de votre demande."
+  },
+  {
+    "question": "Pourquoi dois-je choisir un type de crédit ?",
+    "answer": "Le type de crédit détermine le taux d'intérêt applicable et les documents justificatifs requis."
+  },
+  {
+    "question": "Comment savoir si je suis éligible ?",
+    "answer": "L'éligibilité est déterminée après l'analyse de votre dossier par un Agent Crédit."
+  },
+  {
+    "question": "Combien de temps prend une demande ?",
+    "answer": "Remplir la demande prend environ 10 minutes si vous avez tous vos documents numérisés."
+  },
+  {
+    "question": "Dois-je me déplacer en agence pour finaliser la demande ?",
+    "answer": "Non, le processus est 100% digitalisé."
+  },
+  {
+    "question": "Que signifie le statut 'En attente' ?",
+    "answer": "Votre demande a été reçue mais n'a pas encore été prise en charge par un agent."
+  },
+  {
+    "question": "Que signifie 'En cours d'analyse' ?",
+    "answer": "Un Agent Crédit examine actuellement vos documents et votre capacité de remboursement."
+  },
+  {
+    "question": "Quels documents dois-je fournir ?",
+    "answer": "Vous devez fournir une carte d'identité, un justificatif de revenu, un contrat de travail et un relevé bancaire."
+  },
+  {
+    "question": "Formats de fichiers acceptés pour les documents ?",
+    "answer": "Nous acceptons les formats PDF, JPG et PNG."
+  },
+  {
+    "question": "Taille maximale d'un document ?",
+    "answer": "Chaque fichier ne doit pas dépasser 5 Mo."
+  },
+  {
+    "question": "Mon document est refusé, pourquoi ?",
+    "answer": "Vérifiez que le format est correct (PDF, JPG, PNG), que la taille est inférieure à 5 Mo et que le document est lisible."
+  },
+  {
+    "question": "Comment envoyer ma carte d'identité ?",
+    "answer": "Scannez ou prenez en photo le recto et le verso, puis uploadez-les dans la section correspondante."
+  },
+  {
+    "question": "Qu'est-ce qu'un justificatif de revenu valide ?",
+    "answer": "Une fiche de paie récente ou une déclaration d'impôts."
+  },
+  {
+    "question": "Pourquoi demandez-vous un relevé bancaire ?",
+    "answer": "Pour vérifier votre santé financière et valider votre capacité de remboursement."
+  },
+  {
+    "question": "Puis-je modifier un document après l'envoi ?",
+    "answer": "Sauf si l'agent vous le demande, vous ne pouvez pas modifier un document une fois la demande soumise."
+  },
+  {
+    "question": "Mes documents sont-ils confidentiels ?",
+    "answer": "Oui, ils sont archivés de manière sécurisée et accessibles uniquement au personnel autorisé."
+  },
+  {
+    "question": "Que faire s'il me manque un document ?",
+    "answer": "Votre demande restera en statut incomplet. Vous devez fournir tous les documents pour lancer l'analyse."
+  },
+  {
+    "question": "Comment savoir où en est mon dossier ?",
+    "answer": "Connectez-vous à votre espace client et consultez la rubrique 'Mes Crédits'."
+  },
+  {
+    "question": "Vais-je recevoir une notification lors d'un changement de statut ?",
+    "answer": "Oui, vous recevrez un Email et un SMS à chaque étape clé (acceptation, refus, etc.)."
+  },
+  {
+    "question": "Combien de temps dure l'analyse de mon dossier ?",
+    "answer": "En général, l'analyse prend entre 24h et 48h ouvrées."
+  },
+  {
+    "question": "Qui analyse mon dossier ?",
+    "answer": "Un Agent Crédit qualifié de notre établissement vérifie vos informations et documents."
+  },
+  {
+    "question": "Que signifie le statut 'Accepté' ?",
+    "answer": "Félicitations, votre demande est approuvée. Le contrat est en cours de génération."
+  },
+  {
+    "question": "Que signifie le statut 'Refusé' ?",
+    "answer": "Malheureusement, votre dossier ne répond pas à nos critères actuels d'octroi de crédit."
+  },
+  {
+    "question": "Puis-je contester un refus ?",
+    "answer": "Vous pouvez soumettre une nouvelle demande si votre situation financière s'améliore."
+  },
+  {
+    "question": "Comment signer mon contrat ?",
+    "answer": "Le contrat sera disponible au format PDF dans votre espace. Vous pourrez le télécharger et le signer."
+  },
+  {
+    "question": "Où trouver mon contrat de crédit ?",
+    "answer": "Dans votre espace client, rubrique 'Mes documents' ou sur la page de détails de votre crédit."
+  },
+  {
+    "question": "Quand les fonds seront-ils virés ?",
+    "answer": "Une fois le contrat validé, les fonds sont généralement virés sous 48h sur votre compte bancaire."
+  },
+  {
+    "question": "Comment payer mes mensualités ?",
+    "answer": "Le paiement s'effectue généralement par prélèvement automatique sur le compte bancaire fourni."
+  },
+  {
+    "question": "Où voir la date de mon prochain paiement ?",
+    "answer": "Connectez-vous et allez dans 'Gestion des remboursements' pour voir vos échéances."
+  },
+  {
+    "question": "Puis-je payer par carte bancaire ?",
+    "answer": "Consultez la rubrique de paiement de votre espace pour voir si cette option est activée."
+  },
+  {
+    "question": "Que se passe-t-il si je suis en retard de paiement ?",
+    "answer": "Des pénalités de retard seront automatiquement calculées et ajoutées à votre solde."
+  },
+  {
+    "question": "Comment sont calculées les pénalités de retard ?",
+    "answer": "Elles sont calculées en fonction d'un pourcentage du montant impayé, défini dans votre contrat."
+  },
+  {
+    "question": "Vais-je être averti en cas de retard ?",
+    "answer": "Oui, notre système vous enverra des alertes par SMS et Email."
+  },
+  {
+    "question": "Puis-je rembourser mon crédit par anticipation ?",
+    "answer": "Oui, un remboursement anticipé est possible. Contactez un agent pour connaître les modalités."
+  },
+  {
+    "question": "Y a-t-il des frais pour un remboursement anticipé ?",
+    "answer": "Cela dépend des termes de votre contrat. Vérifiez votre document de crédit."
+  },
+  {
+    "question": "Comment voir l'historique de mes paiements ?",
+    "answer": "Dans votre espace client, sous l'onglet 'Historique des paiements'."
+  },
+  {
+    "question": "Où puis-je télécharger mon échéancier ?",
+    "answer": "Sur la page des détails de votre crédit, cliquez sur le bouton 'Télécharger l'échéancier PDF'."
+  },
+  {
+    "question": "Je n'ai pas reçu l'email de confirmation, pourquoi ?",
+    "answer": "Vérifiez vos courriers indésirables (Spams). Si vous ne trouvez rien, contactez le support."
+  },
+  {
+    "question": "Puis-je désactiver les notifications SMS ?",
+    "answer": "Oui, vous pouvez gérer vos préférences de notifications dans les paramètres de votre profil."
+  },
+  {
+    "question": "Comment contacter un conseiller ?",
+    "answer": "Vous pouvez utiliser le formulaire de contact sur la plateforme ou appeler notre service client."
+  },
+  {
+    "question": "Le chatbot peut-il m'accorder un crédit ?",
+    "answer": "Non, le chatbot est un assistant pour vous guider. Seul un Agent Crédit peut valider votre dossier."
+  },
+  {
+    "question": "À quoi sert ce chatbot ?",
+    "answer": "Je suis là pour répondre à vos questions fréquentes, vous aider à remplir les formulaires et expliquer les étapes."
+  },
+  {
+    "question": "L'application fonctionne-t-elle sur smartphone ?",
+    "answer": "Oui, notre application web est responsive et parfaitement adaptée aux ordinateurs, tablettes et smartphones."
+  },
+  {
+    "question": "Quels navigateurs sont supportés ?",
+    "answer": "Nous supportons les versions récentes de Chrome, Safari, Firefox et Edge."
+  },
+  {
+    "question": "Puis-je utiliser l'application à l'étranger ?",
+    "answer": "Oui, l'application est accessible partout tant que vous disposez d'une connexion internet."
+  },
+  {
+    "question": "Que faire si la page ne charge pas ?",
+    "answer": "Actualisez la page ou videz le cache de votre navigateur. Si le problème persiste, revenez plus tard."
+  },
+  {
+    "question": "L'historique du chatbot est-il conservé ?",
+    "answer": "Oui, l'historique de nos conversations est conservé pendant votre session pour mieux vous assister."
+  },
+  {
+    "question": "Qu'est-ce qu'un Agent Crédit ?",
+    "answer": "C'est un employé de notre organisme chargé d'analyser et de valider les demandes de crédit."
+  },
+  {
+    "question": "Qui a accès à mes statistiques financières ?",
+    "answer": "Seuls le Directeur et les Administrateurs peuvent consulter les tableaux de bord statistiques globaux."
+  },
+  {
+    "question": "Qu'est-ce que le tableau de bord client ?",
+    "answer": "C'est la page d'accueil de votre espace, où vous pouvez voir un résumé de vos crédits et notifications."
+  },
+  {
+    "question": "Comment modifier les informations de ma demande ?",
+    "answer": "Tant que la demande n'est pas envoyée, vous pouvez la modifier. Ensuite, ce n'est plus possible."
+  },
+  {
+    "question": "Que signifie 'Capacité de remboursement' ?",
+    "answer": "C'est le montant maximum que vous pouvez dédier chaque mois au remboursement d'un crédit selon vos revenus."
+  },
+  {
+    "question": "Le taux d'intérêt est-il fixe ou variable ?",
+    "answer": "Les détails du taux sont précisés lors de la simulation et dans votre contrat final."
+  },
+  {
+    "question": "Qu'est-ce que le capital emprunté ?",
+    "answer": "C'est le montant total net que l'organisme vous prête, hors intérêts."
+  },
+  {
+    "question": "Peut-on co-emprunter avec une autre personne ?",
+    "answer": "Actuellement, la plateforme gère les demandes de crédit individuelles."
+  },
+  {
+    "question": "Qu'est-ce qu'un justificatif de domicile ?",
+    "answer": "Une facture d'eau, d'électricité ou un certificat de résidence récent. (Si requis par l'agent)."
+  },
+  {
+    "question": "Le relevé bancaire doit dater de quand ?",
+    "answer": "Il doit généralement couvrir les 3 derniers mois."
+  },
+  {
+    "question": "Pourquoi mon compte est-il bloqué ?",
+    "answer": "Cela peut arriver après plusieurs tentatives de connexion échouées. Utilisez 'Mot de passe oublié' ou contactez le support."
+  },
+  {
+    "question": "Comment se déconnecter en toute sécurité ?",
+    "answer": "Cliquez sur 'Se déconnecter' dans le menu déroulant de votre profil en haut à droite."
+  },
+  {
+    "question": "Puis-je changer la devise de mon prêt ?",
+    "answer": "Non, la devise est fixée par défaut selon le paramétrage de notre établissement."
+  },
+  {
+    "question": "L'application est-elle disponible 24h/24 ?",
+    "answer": "Oui, la plateforme est disponible 24h/24 et 7j/7 pour faire vos demandes."
+  },
+  {
+    "question": "Les agents crédit travaillent-ils le week-end ?",
+    "answer": "Les agents traitent généralement les dossiers uniquement les jours ouvrables."
+  },
+  {
+    "question": "Puis-je demander un délai supplémentaire pour payer ?",
+    "answer": "Toute demande de report d'échéance doit être discutée directement avec un agent de crédit."
+  },
+  {
+    "question": "Que signifie 'Crédit accordé' ?",
+    "answer": "C'est le statut final indiquant que le crédit est actif et que les fonds ont été débloqués."
+  },
+  {
+    "question": "Où puis-je lire les conditions générales d'utilisation ?",
+    "answer": "Elles sont disponibles via le lien 'Mentions légales' en bas de chaque page du site."
+  },
+  {
+    "question": "Je n'ai pas reçu le SMS de validation, que faire ?",
+    "answer": "Vérifiez que le numéro dans votre profil est correct. Vous pouvez aussi demander un renvoi du code."
+  },
+  {
+    "question": "Le chatbot utilise-t-il une intelligence artificielle avancée ?",
+    "answer": "Non, je fonctionne avec des réponses prédéfinies pour vous aider de manière rapide et précise."
+  },
+  {
+    "question": "Comment savoir quels champs sont obligatoires dans le formulaire ?",
+    "answer": "Les champs obligatoires sont généralement marqués d'un astérisque rouge (*)."
+  },
+  {
+    "question": "Puis-je sauvegarder ma demande comme brouillon ?",
+    "answer": "Oui, vous pouvez commencer à remplir votre formulaire et y revenir plus tard avant de le soumettre."
+  },
+  {
+    "question": "Que faire si je constate une erreur dans mon contrat PDF ?",
+    "answer": "Ne le signez pas. Contactez immédiatement un agent crédit via la plateforme pour qu'il soit corrigé."
+  },
+  {
+    "question": "Puis-je obtenir un prêt sans fiche de paie ?",
+    "answer": "Les justificatifs de revenus sont obligatoires. Si vous êtes indépendant, d'autres documents fiscaux seront exigés."
+  },
+  {
+    "question": "Comment sont gérés les jours fériés pour les prélèvements ?",
+    "answer": "Si une échéance tombe un jour férié, le prélèvement est généralement repoussé au jour ouvrable suivant."
+  },
+  {
+    "question": "Qui contacter en cas de bug technique ?",
+    "answer": "Vous pouvez signaler tout problème technique à l'administrateur via la page 'Contact'."
+  },
+  {
+    "question": "Puis-je supprimer un document uploadé par erreur ?",
+    "answer": "Oui, vous pouvez le supprimer en cliquant sur l'icône de corbeille avant de soumettre la demande finale."
+  },
+  {
+    "question": "Le chatbot est-il disponible en d'autres langues ?",
+    "answer": "Pour l'instant, je suis programmé pour vous assister en français."
+  },
+  {
+    "question": "Est-il possible de modifier l'échéancier en cours de prêt ?",
+    "answer": "Toute modification de l'échéancier (comme un report) nécessite l'accord de l'établissement financier."
+  },
+  {
+    "question": "Où voir le montant total des intérêts ?",
+    "answer": "Il est affiché lors de la simulation et clairement indiqué dans le contrat et l'échéancier générés."
+  }
+]

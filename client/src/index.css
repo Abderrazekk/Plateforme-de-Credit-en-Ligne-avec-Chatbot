@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@media print {
+  body { background: white; }
+  .shadow, .shadow-md, .shadow-lg { box-shadow: none !important; }
+  button, a { display: none; }
+}

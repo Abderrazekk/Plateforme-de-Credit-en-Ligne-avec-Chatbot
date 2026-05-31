@@ -1,0 +1,29 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+.env.test
+.env.development
+.env.production
+
+# User Uploads (Ignores the files inside, but allows you to track the folders if you add a .gitkeep file inside them)
+uploads/avatars/*
+!uploads/avatars/.gitkeep
+uploads/documents/*
+!uploads/documents/.gitkeep
+uploads/payments/*
+!uploads/payments/.gitkeep
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/

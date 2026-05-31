@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env_py/
+
+# Environment Variables
+.env
+
+# Vector Database / Index Store
+# (It is best practice not to push large generated index files to Git)
+faiss_index_store/
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
